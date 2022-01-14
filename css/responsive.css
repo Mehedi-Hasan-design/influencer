@@ -1,0 +1,127 @@
+@media (max-width: 767.98px) {
+       
+  /* =============================menu responsive======== */
+   /* =============================menu responsive======== */
+
+   nav ul li {
+       margin: 0 0px;
+     }
+
+  .journey h1 {
+    font-size: 30px;
+  }
+  .hero-section {
+    flex-direction: column;
+  }
+  .collections {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .social a {
+    background-color: #22213c;
+    border-radius: 28px;
+    width: 25px;
+    height: 36px;
+    padding-right: 41px;
+  }
+  .journey {
+    margin-bottom: 36px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .media {
+    width: 300px;
+    height: auto;
+  }
+  .feature-product {
+    flex-direction: column;
+  }
+  .feature-product-des h2 {
+    font-size: 25px;
+    margin-top: 20px;
+  }
+  .section-title {
+    font-size: 20px;
+    margin: 10px 0px 30px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+        /* =============================menu responsive======== */
+
+        /* =============================menu responsive======== */
+        nav ul li {
+              margin: 0 0px;
+            }
+  .hero-section {
+    flex-direction: column;
+  }
+  .collections {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .social a {
+    background-color: #22213c;
+    border-radius: 28px;
+    width: 25px;
+    height: 36px;
+    padding-right: 41px;
+  }
+  .journey {
+    margin-bottom: 36px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .media {
+    width: 300px;
+    height: auto;
+  }
+  .feature-product {
+    flex-direction: column;
+  }
+  .feature-product-des h2 {
+    font-size: 25px;
+    margin-top: 20px;
+  }
+  .section-title {
+    font-size: 20px;
+    margin: 10px 0px 30px;
+  }
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+       nav ul li {
+              margin: 0 0px;
+            }
+  .hero-section {
+    flex-direction: column;
+  }
+  .collections {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .social a {
+    background-color: #22213c;
+    border-radius: 28px;
+    width: 25px;
+    height: 36px;
+    padding-right: 41px;
+  }
+  .journey {
+    margin-bottom: 36px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .media {
+    width: 300px;
+    height: auto;
+  }
+}
+
+@media (min-width: 1200px) {
+  .hero-section {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+  }
+}
