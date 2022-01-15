@@ -127,7 +127,14 @@ main {
   border-radius: 20px;
   margin-top: 10px;
 }
-
+.btn-radious-cart {
+  border: 1px solid #3a3a3a;;
+  color: #3a3a3a;
+  padding: 8px 25px;
+  display: inline-block;
+  border-radius: 20px;
+  margin-top: 10px;
+}
 i.fas.fa-arrow-right {
   margin-left: 5px;
 }
